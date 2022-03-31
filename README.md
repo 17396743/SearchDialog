@@ -18,7 +18,6 @@
 ````java
 
  SearchFragment searchFragment = SearchFragment.newInstance();
- 
 ````
 
 第二步,设置回调:
@@ -39,5 +38,5 @@
 ````java
 
    searchFragment.showFragment(getSupportFragmentManager(),SearchFragment.TAG);.
-   
+  
 ````
