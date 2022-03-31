@@ -10,3 +10,29 @@
 效果图：
 
 ![video4 00-00-08--00-00-38](https://user-images.githubusercontent.com/70384877/161034927-becc564a-3b48-41ed-9541-be69451c414d.gif)
+
+## 使用方式
+
+第一步,实例化:
+
+``java``
+ SearchFragment searchFragment = SearchFragment.newInstance();
+````
+
+第二步,设置回调:
+
+``java``
+ searchFragment.setOnSearchClickListener(new IOnSearchClickListener() {
+            @Override
+            public void OnSearchClick(String keyword) {
+                //这里处理逻辑
+                Toast.makeText(ToolBarActivity.this, keyword, Toast.LENGTH_SHORT).show();
+            }
+  });
+````
+
+第三步,显示搜索框:
+
+``java``
+   searchFragment.showFragment(getSupportFragmentManager(),SearchFragment.TAG);
+````
