@@ -1,6 +1,7 @@
 # 仿bilibili搜索框效果修改版(三句代码实现)
 
 原作者：[Lam Wan](https://github.com/wenwenwen888)
+原项目：[SearchDialog](https://github.com/wenwenwen888/SearchDialog)
 
 ## 前言
 
