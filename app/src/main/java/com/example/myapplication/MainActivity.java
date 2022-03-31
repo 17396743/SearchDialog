@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void initData() {
-
+        // 点击操作
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-
+        //接口回调
         searchFragment.setOnSearchClickListener(new IOnSearchClickListener() {
             @Override
             public void OnSearchClick(String keyword) {
@@ -45,6 +45,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void initView() {
         button = (Button) findViewById(R.id.button);
+        //注册（预加载）
         searchFragment = SearchFragment.newInstance();
     }
 }
