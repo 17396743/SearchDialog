@@ -29,7 +29,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:background="@null"
-                android:hint="搜索关键字"
+                android:hint="@string/et_search_keyword"
                 android:imeOptions="actionSearch"
                 android:padding="6dp"
                 android:singleLine="true"
@@ -41,7 +41,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:padding="6dp"
-                android:src="@drawable/ic_search_bg_24dp" />
+                android:src="@drawable/ic_baseline_search_24" />
 
         </LinearLayout>
 
@@ -69,7 +69,7 @@
             android:background="@drawable/shape_corner_white"
             android:gravity="center"
             android:padding="10dp"
-            android:text="清空搜索记录"
+            android:text="@string/tv_search_clean"
             android:textColor="@color/text_grey"
             android:textSize="14sp" />
     </LinearLayout>

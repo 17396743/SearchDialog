@@ -5,8 +5,14 @@
       <map>
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyApplication10/app/src/main/res/layout/activity_main.xml" value="0.12708333333333333" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyApplication10/searchbox/src/main/res/drawable/ic_back_24dp.xml" value="0.135" />
-        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyApplication10/searchbox/src/main/res/layout/dialog_search.xml" value="0.10989583333333333" />
-        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyApplication10/searchbox/src/main/res/layout/item_search_history.xml" value="0.12447916666666667" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyApplication10/searchbox/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1365" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyApplication10/searchbox/src/main/res/drawable/ic_close_16dp.xml" value="0.1365" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyApplication10/searchbox/src/main/res/drawable/ic_history_24dp.xml" value="0.1365" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyApplication10/searchbox/src/main/res/drawable/ic_search_24dp.xml" value="0.1365" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyApplication10/searchbox/src/main/res/drawable/ic_search_bg_24dp.xml" value="0.1365" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyApplication10/searchbox/src/main/res/drawable/shape_corner_white.xml" value="0.1365" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyApplication10/searchbox/src/main/res/layout/dialog_search.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyApplication10/searchbox/src/main/res/layout/item_search_history.xml" value="0.33" />
       </map>
     </option>
   </component>
