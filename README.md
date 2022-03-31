@@ -43,7 +43,6 @@
 ````java
 
    searchFragment.showFragment(getSupportFragmentManager(),SearchFragment.TAG);.
-  
 ````
 
 当前所使用的AndroidStudio版本：2021.1.1 Patch 2
