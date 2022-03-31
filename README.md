@@ -15,13 +15,16 @@
 
 第一步,实例化:
 
-``java``
+````java
+
  SearchFragment searchFragment = SearchFragment.newInstance();
+ 
 ````
 
 第二步,设置回调:
 
-``java``
+````java
+
  searchFragment.setOnSearchClickListener(new IOnSearchClickListener() {
             @Override
             public void OnSearchClick(String keyword) {
@@ -33,6 +36,8 @@
 
 第三步,显示搜索框:
 
-``java``
-   searchFragment.showFragment(getSupportFragmentManager(),SearchFragment.TAG);
+````java
+
+   searchFragment.showFragment(getSupportFragmentManager(),SearchFragment.TAG);.
+   
 ````
