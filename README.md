@@ -1,4 +1,4 @@
-# 仿bilibili搜索框效果兼容版(三句代码实现)
+# 仿bilibili搜索框效果兼容修改版(三句代码实现)
 
 原作者：[Lam Wan](https://github.com/wenwenwen888)
 
